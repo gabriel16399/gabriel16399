@@ -1,6 +1,6 @@
-### BOAS VINDA AO MU PERIL 💙
+### BOAS VINDA AO MEU PERFIL 💙
 
-meu nome é gabriel fankhauser
+meu nome é Gabriel Fankhauser
 
 - estou estudando na Alura
 - estou me desenvolvendo na linguagem javascript
