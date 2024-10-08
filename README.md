@@ -6,3 +6,4 @@ meu nome é Gabriel Fankhauser
 - estou me desenvolvendo na linguagem javascript
 - utilizo esse espaço para minha organização
 - 
+-
